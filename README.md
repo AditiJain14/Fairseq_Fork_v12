@@ -2,14 +2,9 @@
 
 An off-the-shelf working version of Fairseq's monotonic multihead attention for SiMT
 
-Depends on:
-* Python 3.8
-* PyTorch 1.5.0 cu10.2 `pip install torch==1.5.0 torchvision==0.6.0`
-
-
 ### To get this running
 Clone this repo first
-* `git clone https://github.com/protonish/monotonic_multihead_attention.git`
+* `git clone https://github.com/AditiJain14/Fairseq_Fork_v12.git`
 * `cd monotonic_multihead_attention`
 
 Install fairseq inside this repo
